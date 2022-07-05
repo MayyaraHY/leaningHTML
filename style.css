@@ -1,0 +1,50 @@
+button{
+
+ font: roboto;
+ font:bold;
+ font-size: larger;
+ font-style: oblique;
+ color: #b8255f;
+ font-size: 20px;
+ background: #96c3eb;
+ margin-left: 100px;
+ border-inline:10;
+ border: 4px #b8b8b8;
+ text-align: center;
+ width: 200px;
+ height: 50px;
+}
+.p1{
+    font: bolder;
+    color: teal;
+    text-align: left;
+    font-size: larger;
+}
+p3{
+    font: bold;
+    color: magenta;
+    text-align: left;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 20px;
+}
+main{
+    text-align: justify;
+    font: arial;
+}
+p2{
+    font-size: 23px;
+    color: blueviolet;
+    text-decoration: underline;
+}
+ul{
+    font-size: large;
+}
+p{
+    font-size: 30px;
+    color: #96c3eb;
+    text-align: center;
+}
+aside{
+    text-align: center;
+}
