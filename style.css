@@ -14,11 +14,12 @@ button{
  width: 200px;
  height: 50px;
 }
-.p1{
+p1{
     font: bolder;
     color: teal;
     text-align: left;
     font-size: larger;
+    text-decoration: underline;
 }
 p3{
     font: bold;
@@ -31,6 +32,7 @@ p3{
 main{
     text-align: justify;
     font: arial;
+    padding: 30px 20px
 }
 p2{
     font-size: 23px;
@@ -47,4 +49,15 @@ p{
 }
 aside{
     text-align: center;
+}
+header{
+    background-color: antiquewhite;
+}
+.nav{
+    font: bolder;
+    color: teal;
+    text-align: left;
+    font-size: 18px;
+    text-decoration: underline;
+    font-style: italic;
 }
